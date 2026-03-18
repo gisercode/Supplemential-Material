@@ -1,8 +1,8 @@
 # Supplementary Material for "A Survey on Tensor-Based Spatiotemporal Data Imputation: Knowledge Engineering Perspectives and Modeling Strategies"
 
-This document summarizes the supplemental material provided in "Supplemental Material.pdf." This repository contains the supplemental material for the survey paper titled "A Survey on Tensor-Based Spatiotemporal Data Imputation: Knowledge Engineering Perspectives and Modeling Strategies."
+This document summarizes the supplementary material provided in "Supplemental Material.pdf." This repository contains the supplemental material for the survey paper titled "A Survey on Tensor-Based Spatiotemporal Data Imputation: Knowledge Engineering Perspectives and Modeling Strategies."
 
-## I. Applications, Resources, and Decision Guideline
+## Applications, Resources, and Decision Guideline
 
 This section discusses the applications of tensor decomposition-based methods for spatiotemporal data imputation, the available resources (datasets and code), and a guideline for selecting the appropriate method.
 
